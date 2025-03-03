@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "remote-control-452220",
+  "private_key_id": "bd30dfe8afd53accfa67cccf6cbf8538e8702238",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMtOXKy6/AMZsM\nOcshudT0JzPwix8Hmd/Ioj072UzhU5PxL1UhQ2zIMaCUyyWzjcCjrkAD8M37eXRi\nqKKsOwIJ7ISUAR7L6DOzYTk4P3xjpD6icJ9uVjsw7jSFMB4USjNeZ3RuIMltI/LT\nyUwp74ucsmn79/Ivb9a46PHohUXbv2zZ2GJTF60XsAQla+Q6FkOSihc2sHqkTioq\nqUBVdu8BeZ6NTah96kHtiKAUqk32qVJBKaVvM+HYMeTDACaxEBXuC4sho/ccI2Xu\nb0b7P/QCFAd4A+u6FRj8RA2pB0uSlytvEurdNaThJDuOPgB1l8YLdubDXChhCngT\ni/TOkPABAgMBAAECggEAS9QMtSjrcwnNEePMq7MPP9vPwSB/v4yP2V3DygouEN+p\nUzPB2J8Fykib39I6pn7xZ5ByFSOb4bX1V2B5VcxL7oom+D5L/qOGl0GB9SSLOsvK\nCdknLbOSnIb4fIe89K4hxiwTdIH/q0agOjR8WqJp+IMcgGIx28GVbAyaI5ROst3V\n31p+gk4+nZ2knnwfmigf2g89G16bUoV32LRqZoHpZ/90V65LnqAaIejD3xSwyOZh\nGMlJ9X9M1AmNQ7Q1DLmaV4Sg8X/ZQVDxj0qK/kDcL5SQxHr36B1nW9okdhSFzoA8\nepJ0pskmabfCEPM2Ywg24ZAj1VeJwLw4uKXmbxgdUwKBgQDpMktdkyl9FqHhGCMA\ne+DjIqXCODZIRzUWKx2Gi1QAHOAoAmlJPiF/ZgBs/9qsyn2HG+kQPXLW5ymCMeS1\nTi19c7JiAWN9TOkCMBe/q+rKfZNcQk39eNeIRSl3lkP9s1vOZhqv9Oq0eQa1ZsP4\n3RlXWmU69m7BCGRaAWUIu83S3wKBgQDguWe+KDrnjhFgiMFySi1yV0HnI3ZYgRSP\nl1Xpn5Kk+OPNj1c3Z7CqrRWg5SbGvnp4nKgSETw7vFxhI/m3fcds3fgI4fwafWlG\nWKtkL6FQl+cwy66Dal5h1X67AApE5zAR2u90Q+1ZOicBpYaIXu07QooehDLZFBLp\nmtD2WCd5HwKBgEODmipHVvWuPcPLlyamtt9Lwq3OVHjslMQMS4oOgI1fzs4GlLDt\n2gjmYS0tjgQEw/7/56QaBkuNtYjKJSsQrT7q5jRVrpYyVCub/OQzQ9DINoe5cpb2\nC4CadXz39ktXSDcjfIqA4ArMF1Mho49Dg/i0ZSaC/mHIqjUcvkGfDeIFAoGBANoj\n/8l+Adf+d23OsoF/8ee5PhbhvKKjAlN0owf6R35uv6stxorY04yKIaGib2ajRf1I\njHmlU2PlL4N4SZJNvUU3nur4eyE3tfZ8YjsJZTz3h4s9XHTizyWG+dMKce16wZXD\ngYfJ3F8t7OlTRWmhRAWvTKXczAMe0lEDYG6RGhgfAoGADCxoVKIWMNkbI/9vNkID\nubbgWl3mASQbyUFcZMfBd5599R4jZgj5l0TWob0bXDOz+79jyuQ58yTnihMhhd69\n1/YDPFoMkfr5wpfD728e7jU9j+4DDsTJQrRKyXth6BXwBbw+yEF2II5gzzPePiZP\n3csRJjac+B5yD90izmr+qxA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "remote-control-server@remote-control-452220.iam.gserviceaccount.com",
+  "client_id": "100088988083289470490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/remote-control-server%40remote-control-452220.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
